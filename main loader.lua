@@ -29,6 +29,9 @@ else
                                         else
                                             if game.PlaceId == 2629642516 then
                                                 loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/btcminersim.lua"))()
+                                            else
+                                                if game.PlaceId == 2788229376 then
+                                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/PewPewSim.lua"))()
                                             end
                                         end
                                     end
@@ -39,3 +42,4 @@ else
                 end
             end
         end
+    end
