@@ -32,5 +32,8 @@ if game.PlaceId == 6808416928 then --Aimblox
 
     elseif game.PlaceId == 2788229376 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/PewPewSim.lua"))()
+    
+    else if game.PlaceId == 2693023319 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/highmounttaincliminglol.lua"))()
 end
 end
