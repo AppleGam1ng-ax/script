@@ -1,4 +1,3 @@
-es (26 sloc) 2 KB
 if game.PlaceId == 6808416928 then --Aimblox
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/Aimb.lua"))()
 
