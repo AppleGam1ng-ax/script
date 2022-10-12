@@ -36,5 +36,8 @@ if game.PlaceId == 6808416928 then --Aimblox
 
     elseif game.PlaceId == 292439477 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/ogarsenal.lua"))()
+    
+    elseif game.PlaceId == 8888615802 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/monsterchasingyoulol.lua"))()
 end
 end
