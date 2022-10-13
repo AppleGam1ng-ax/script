@@ -1,7 +1,4 @@
-if game.PlaceId == 6808489605 then --Aimblox
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/Aimb.lua"))()
-
-    elseif game.PlaceId == 2512643572 then  --Bubble Gum Simulator
+if game.PlaceId == 2512643572 then  --Bubble Gum Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/bgs.lua"))()
 
     elseif game.PlaceId == 10320240572 then --Easy Race Clicker
