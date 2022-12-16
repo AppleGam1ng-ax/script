@@ -1,3 +1,6 @@
+--Congrats you found it! 
+-- I never added protection 
+--if you want to then leak this i couldn't care less i will also patch it as soon as i can :steamhappy:
 if game.PlaceId == 2512643572 then  --Bubble Gum Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleGam1ng-ax/script/main/bgs.lua"))()
 
